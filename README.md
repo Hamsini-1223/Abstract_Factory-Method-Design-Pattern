@@ -36,7 +36,7 @@ This project implements a furniture store simulation where customers can purchas
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Hamsini-1223/Abstract_Factory-Method-Design-Pattern
 cd Abstract-factory
 npm install
 ```
