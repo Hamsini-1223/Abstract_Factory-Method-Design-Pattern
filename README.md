@@ -33,7 +33,7 @@ This project implements a furniture store where customers can purchase matching 
 
 ## UML Class Diagram
 
-![Abstract Factory UML Diagram](img/Abstract.png)
+![Abstract Factory UML Diagram](asset/Abstract.png)
 
 ## Installation
 
