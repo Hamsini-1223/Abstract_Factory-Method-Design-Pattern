@@ -9,6 +9,8 @@ This project implements a furniture store where customers can purchase matching 
 ## Project Structure
 
 ```
+├── asset/
+|   └── Abstract.png
 ├── src/
 │   ├── models/
 │   │   └── productInterfaces.ts    # Product interfaces
