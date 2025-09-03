@@ -2,8 +2,6 @@
 
 A simple TypeScript implementation of the Abstract Factory design pattern with an interactive console interface.
 
-![Abstract Factory UML Diagram](uml-diagram.png)
-
 ## Overview
 
 This project implements a furniture store where customers can purchase matching furniture sets. The Abstract Factory pattern ensures that all furniture pieces within a selected style are consistent.
@@ -33,7 +31,7 @@ This project implements a furniture store where customers can purchase matching 
 
 ## UML Class Diagram
 
-![Abstract Factory UML Diagram](Abstract.png)
+![Abstract Factory UML Diagram](img\Abstract.png)
 
 ## Installation
 
