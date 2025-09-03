@@ -31,7 +31,7 @@ This project implements a furniture store where customers can purchase matching 
 └── tsconfig.json
 ```
 
-## UML Diagram
+## UML Class Diagram
 
 ![Abstract Factory UML Diagram](Abstract.png)
 
