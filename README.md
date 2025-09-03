@@ -83,6 +83,6 @@ const store = new FurnitureStore(modernFactory);
 store.buyFurnitureSet();
 ```
 
-## License
+## Built By
 
 Ms Hamsini S
