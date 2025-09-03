@@ -1,5 +1,6 @@
-// modern-furniture.ts
-import { Chair, Sofa, Table } from "./products";
+// src/products/modernFurniture.ts
+
+import { Chair, Sofa, Table } from "../models/productInterfaces";
 
 export class ModernChair implements Chair {
   sitOn(): string {

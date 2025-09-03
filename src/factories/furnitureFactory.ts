@@ -1,5 +1,6 @@
-// furniture-factory.ts
-import { Chair, Sofa, Table } from "./products";
+// src/factories/furnitureFactory.ts
+
+import { Chair, Sofa, Table } from "../models/productInterfaces";
 
 export interface FurnitureFactory {
   createChair(): Chair;

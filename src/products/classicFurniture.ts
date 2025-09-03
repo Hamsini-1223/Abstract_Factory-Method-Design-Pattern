@@ -1,5 +1,6 @@
-// classic-furniture.ts
-import { Chair, Sofa, Table } from "./products";
+// src/products/classicFurniture.ts
+
+import { Chair, Sofa, Table } from "../models/productInterfaces";
 
 export class ClassicChair implements Chair {
   sitOn(): string {

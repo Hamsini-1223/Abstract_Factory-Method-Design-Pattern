@@ -1,17 +1,18 @@
 {
   "name": "furniture-abstract-factory",
   "version": "1.0.0",
-  "description": "Interactive Abstract Factory pattern example with furniture store",
+  "description": "Simple Abstract Factory pattern implementation with furniture store",
   "main": "main.ts",
   "scripts": {
     "start": "npx ts-node main.ts",
-    "demo": "npx ts-node demo.ts",
-    "extended": "npx ts-node main-extended.ts",
+    "demo": "npx ts-node -e \"import('./src/ui/demo').then(m => m.runDemo())\"",
     "build": "tsc"
   },
   "devDependencies": {
-    "@types/node": "^20.19.7",
+    "typescript": "^5.0.0",
     "ts-node": "^10.0.0",
-    "typescript": "^5.0.0"
-  }
+    "@types/node": "^20.0.0"
+  },
+  "author": "Ms Hamsini S",
+  "license": "ISC"
 }

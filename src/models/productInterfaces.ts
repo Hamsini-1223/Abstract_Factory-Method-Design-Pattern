@@ -1,4 +1,5 @@
-// products.ts
+// src/models/productInterfaces.ts
+
 export interface Chair {
   sitOn(): string;
 }
