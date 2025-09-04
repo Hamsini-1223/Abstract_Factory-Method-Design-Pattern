@@ -85,6 +85,78 @@ const store = new FurnitureStore(modernFactory);
 store.buyFurnitureSet();
 ```
 
+## Output
+
+### Interactive Mode Output
+
+```
+Welcome to the Furniture Store!
+==============================
+
+What would you like to do?
+1. Choose furniture style
+2. Buy complete furniture set
+3. Buy individual furniture
+4. Exit
+
+Enter your choice (1-4): 1
+
+Available Furniture Styles:
+1. Modern (sleek, glass, leather)
+2. Classic (wooden, fabric, traditional)
+3. Rustic (rough wood, natural, country style)
+
+Choose style (1-3): 1
+You selected Modern style furniture!
+
+What would you like to do?
+1. Choose furniture style
+2. Buy complete furniture set
+3. Buy individual furniture
+4. Exit
+
+Enter your choice (1-4): 2
+
+Buying complete furniture set...
+================================
+Chair: Sitting on a sleek modern chair
+Sofa: Relaxing on a modern leather sofa
+Table: Placing item on a glass modern table
+Complete set purchased!
+```
+
+### Demo Mode Output
+
+```
+Furniture Store Demo
+===================
+
+=== Modern Furniture Set ===
+Chair: Sitting on a sleek modern chair
+Sofa: Relaxing on a modern leather sofa
+Table: Placing item on a glass modern table
+
+=== Classic Furniture Set ===
+Chair: Sitting on a wooden classic chair
+Sofa: Relaxing on a fabric classic sofa
+Table: Placing item on a wooden classic table
+
+=== Rustic Furniture Set ===
+Chair: Sitting on a rough wooden rustic chair
+Sofa: Relaxing on a log-frame rustic sofa
+Table: Placing item on a tree-trunk rustic table
+
+=== Individual Purchases ===
+Chair: Sitting on a sleek modern chair
+Chair purchased!
+Sofa: Relaxing on a fabric classic sofa
+Sofa purchased!
+Table: Placing item on a tree-trunk rustic table
+Table purchased!
+
+Demo completed!
+```
+
 ## Built By
 
 Ms Hamsini S
