@@ -38,7 +38,7 @@ This project implements a furniture store where customers can purchase matching 
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Hamsini-1223/Abstract_Factory-Method-Design-Pattern.git
 cd furniture-abstract-factory
 npm install
 ```
